@@ -10,3 +10,7 @@ https://github.com/moby/moby/issues/28321</br>
 Docker build</br>
 https://docs.docker.com/engine/reference/commandline/build/</br>
 docker build --tag name:latest - < [файл докер контейнера]</br>
+
+
+Шпаргалка</br>
+https://habr.com/ru/company/flant/blog/336654/</br>
